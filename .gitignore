@@ -1,0 +1,23 @@
+# IDE
+.idea/
+*.iml
+.dart_tool/
+
+# Env
+.env
+.metadata
+
+# Build artifacts (except release APK)
+/build/
+
+# Zip
+*.zip
+
+# Flutter generated
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+
+# Node
+node_modules/
